@@ -26,7 +26,7 @@
 ## Citation
 If you find our work helpful or use this code in your research, please kindly cite the following paper:
 
-    @InProceedings{Li_2023_ICCV,
+    @InProceedings{li2023PnD,
         author    = {Li, Jiaxuan and Vo, Duc Minh and Nakayama, Hideki},
         title     = {Partition-And-Debias: Agnostic Biases Mitigation via a Mixture of Biases-Specific Experts},
         booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
