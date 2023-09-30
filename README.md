@@ -24,7 +24,7 @@
 ## Evaluation
 
 ## Citation
-If you find our work helpful or use this code in your research, please kindly cite the following paper:
+If you find our work helpful for your research, please kindly consider citing:
 
     @InProceedings{li2023pnd,
         author    = {Li, Jiaxuan and Vo, Duc Minh and Nakayama, Hideki},
