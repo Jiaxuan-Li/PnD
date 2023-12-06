@@ -11,11 +11,8 @@
 
 <div align=center><img width="95%" src="https://github.com/Jiaxuan-Li/PnD/files/12773893/fig_model.pdf"/></div>
 
-## Todo
-
-- [ ] The following parts are coming soon~
-
 ## Setup
+Install the required packages using conda with the provided [environment.yml](environment.yml) file.
 
 ## Training
 
