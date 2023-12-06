@@ -34,5 +34,6 @@ If you find our work helpful for your research, please kindly consider citing:
     }
 
 ## Acknowledgements
+This repo is built on [OccamNet](https://github.com/erobic/occam-nets-v1) and [DFA](https://github.com/kakaoenterprise/Learning-Debiased-Disentangled), we thank the authors for their great effort.
 
   
