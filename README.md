@@ -3,7 +3,7 @@
 <a href="https://arxiv.org/abs/2308.10005"><img src="https://img.shields.io/badge/arXiv-2308.10005-b31b1b.svg" height=20.5></a>
 
 
-### [Jiaxuan Li](https://jiaxuan-li.github.io/)<sup>1</sup>, [Minh-Duc Vo](https://vmdlab.github.io/)<sup>1</sup>, [Hideki Nakayama](http://www.nlab.ci.i.u-tokyo.ac.jp/index-e.html)<sup>1</sup>
+[**Jiaxuan Li**](https://jiaxuan-li.github.io/)<sup>1</sup>, [**Minh-Duc Vo**](https://vmdlab.github.io/)<sup>1</sup>, [**Hideki Nakayama**](http://www.nlab.ci.i.u-tokyo.ac.jp/index-e.html)<sup>1</sup>
 
 1 The University of Tokyo
 
