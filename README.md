@@ -16,6 +16,15 @@ Install the required packages using conda with the provided [environment.yml](en
 
 ## Training and evaluation
 
+```shell
+python main.py \
+--dataset bmnist --percent=5.00pct \
+--device=cuda:0 \
+--exp=PnD_bmnist \
+--weight_decay=1e-5 \
+--lr1=0.001 --lr2=0.0005 --lr_decay_step1=20 --lr_decay_step2=20 --lr_gamma=0.5 \
+--temperature=0.1 --alpha1=0.2 --alpha2=2.0 --beta=4.0 --num_epochs1=70 --num_epochs2=100
+```
 
 ## Acknowledgements
 This repo is built on [OccamNet](https://github.com/erobic/occam-nets-v1) and [DFA](https://github.com/kakaoenterprise/Learning-Debiased-Disentangled), we thank the authors for their great effort.
