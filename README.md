@@ -14,9 +14,8 @@
 ## Setup
 Install the required packages using conda with the provided [environment.yml](environment.yml) file.
 
-## Training
+## Training and evaluation
 
-## Evaluation
 
 ## Citation
 If you find our work helpful for your research, please kindly consider citing:
