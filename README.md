@@ -5,7 +5,7 @@
 
 [**Jiaxuan Li**](https://jiaxuan-li.github.io/)<sup>1</sup>, [**Minh-Duc Vo**](https://vmdlab.github.io/)<sup>1</sup>, [**Hideki Nakayama**](http://www.nlab.ci.i.u-tokyo.ac.jp/index-e.html)<sup>1</sup>
 
-1 The University of Tokyo
+<sup>1</sup>The University of Tokyo
 
 > Bias mitigation in image classification has been widely researched, and existing methods have yielded notable results. However, most of these methods implicitly assume that a given image contains only one type of known or unknown bias, failing to consider the complexities of real-world biases. We introduce a more challenging scenario, agnostic biases mitigation, aiming at bias removal regardless of whether the type of bias or the number of types is unknown in the datasets. To address this difficult task, we present the Partition-and-Debias (PnD) method that uses a mixture of biases-specific experts to implicitly divide the bias space into multiple subspaces and a gating module to find a consensus among experts to achieve debiased classification. Experiments on both public and constructed benchmarks demonstrated the efficacy of the PnD.
 
