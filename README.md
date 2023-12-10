@@ -17,6 +17,9 @@ Install the required packages using conda with the provided [environment.yml](en
 ## Training and evaluation
 
 
+## Acknowledgements
+This repo is built on [OccamNet](https://github.com/erobic/occam-nets-v1) and [DFA](https://github.com/kakaoenterprise/Learning-Debiased-Disentangled), we thank the authors for their great effort.
+
 ## Citation
 If you find our work helpful for your research, please kindly consider citing:
 
@@ -28,8 +31,3 @@ If you find our work helpful for your research, please kindly consider citing:
         year      = {2023},
         pages     = {4924-4934}
     }
-
-## Acknowledgements
-This repo is built on [OccamNet](https://github.com/erobic/occam-nets-v1) and [DFA](https://github.com/kakaoenterprise/Learning-Debiased-Disentangled), we thank the authors for their great effort.
-
-  
